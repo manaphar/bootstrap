@@ -1,0 +1,9 @@
+{
+  "schema_version": 2,
+  "pool_version": 1,
+  "server_id": "mnp-prod-1",
+  "selected_api": null,
+  "api_endpoints": [
+    "https://api.manaphar.biz"
+  ]
+}
